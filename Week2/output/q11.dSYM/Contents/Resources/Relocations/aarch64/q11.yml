@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/brihatthapa/DCS_Assignment/Week2/output/q11'
+relocations:     []
+...
